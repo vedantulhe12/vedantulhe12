@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Vedant, a Passionate AIML Engineer from India</h2>
+<h2 align="center">Hi 👋 I'm Vedant, a Passionate AIML Engineer from India</h2>
 
 <div align="center"> 
     <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" style="max-width: 100%; height: auto;" alt="Coding Meme" /> 
