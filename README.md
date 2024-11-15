@@ -23,23 +23,20 @@
 
 <h3 align="left">🌐 Connect with Me:</h3> 
 <div align="center"> 
-    <a href="https://youtube.com" target="_blank"> 
-        <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="YouTube" /> 
-    </a> 
     <a href="https://instagram.com" target="_blank"> 
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram" /> 
+        <img src="https://www.instagram.com/vedantulhe/profilecard/?igsh=M3J6dXFmdTFzbjJ2" height="40" alt="Instagram" /> 
     </a> 
     <a href="https://twitch.tv" target="_blank"> 
-        <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Twitch" /> 
+        <img src="https://www.twitch.tv/vedant_here" height="40" alt="Twitch" /> 
     </a> 
     <a href="https://discord.com" target="_blank"> 
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Discord" /> 
     </a> 
-    <a href="mailto:your-email@gmail.com" target="_blank"> 
+    <a href="mailto:vedant.ulhe.btech2022@sitpune.edu.in" target="_blank"> 
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" /> 
     </a> 
     <a href="https://linkedin.com" target="_blank"> 
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn" /> 
+        <img src="https://www.linkedin.com/in/vedant-ulhe-5a202a285/" height="40" alt="LinkedIn" /> 
     </a> 
 </div>
 
